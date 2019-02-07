@@ -1,2 +1,2 @@
 # SiteCursoEmVideo
-Site desenvolvido no curso deHTML5 no CursoEmVideo
+Site desenvolvido no curso de HTML5 no CursoEmVideo
